@@ -5,4 +5,4 @@
 [https://docs.google.com/presentation/d/1Adn4RvaY-hS54YMKpAOTpJgg2OwLKN3e2YB2dwpsz2E/edit?usp=sharing](رابط Google slide)
 
 ملف Google sheets الخاص بمواصفات نظام الكمبيوتر المثالي:
-[https://docs.google.com/presentation/d/1Adn4RvaY-hS54YMKpAOTpJgg2OwLKN3e2YB2dwpsz2E/edit?usp=sharing](رابط Google sheets)
+[https://docs.google.com/spreadsheets/d/1hFebac5z-ob63nFxvGzst6Wt_cz5gBARsxFnYz7Z4lw/edit?usp=sharing](رابط Google sheets)
