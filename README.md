@@ -6,3 +6,5 @@
 
 ملف Google sheets الخاص بمواصفات نظام الكمبيوتر المثالي:
 [https://docs.google.com/spreadsheets/d/1hFebac5z-ob63nFxvGzst6Wt_cz5gBARsxFnYz7Z4lw/edit?usp=sharing](رابط Google sheets)
+
+https://x.thunkable.com/copy/3255d3871b68d27aa37fd363dce90ac9
