@@ -7,4 +7,4 @@
 ملف Google sheets الخاص بمواصفات نظام الكمبيوتر المثالي:
 [https://docs.google.com/spreadsheets/d/1hFebac5z-ob63nFxvGzst6Wt_cz5gBARsxFnYz7Z4lw/edit?usp=sharing](رابط Google sheets)
 
-[thunkable](https://x.thunkable.com/copy/a212b41e6e3e331067b722398601efac)
+https://x.thunkable.com/copy/d700eb89b5af9d35f86d84bb62989fd8
